@@ -75,7 +75,9 @@ begin
 q=((J&(~q))|((~K)&q));
 
  qbar=~q; 
+
 end 
+
 endmodule
 
 **RTL LOGIC FOR FLIPFLOPS**
